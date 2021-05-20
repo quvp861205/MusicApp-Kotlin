@@ -1,3 +1,9 @@
+Descargar android studio: https://developer.android.com/studio
+
+Instalar plugin de Kotlin en caso necesario.
+
+Al crear un nuevo proyecto especificar como Kotlin el lenguaje.
+
 Package Name: el identificador único que tendrá la App en Play Store. Lo recomendable es tener dominio de un sitio web del que uno sea dueño seguido del nombre de la App, por ejemplo com.misitioweb.nombreapp
 
 Estructura de Archivos de una App Android
