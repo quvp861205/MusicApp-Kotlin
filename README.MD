@@ -33,3 +33,7 @@ En la pestaña de Android se tiene entre otras cosas:
 	📁 xml → Contiene preferencias de usuario y datos más complejos.
 
 	📁 raw → Contiene archivos como vídeos o audios.
+	
+	
+
+![](Ejemplo.png)
